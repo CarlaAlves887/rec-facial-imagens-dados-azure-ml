@@ -29,17 +29,17 @@ Selecionar `Review + Create` e aguarde uns minutos até que o deployment termine
 1. Abrir o [Vision Studio](https://portal.vision.cognitive.azure.com) e selecionar a opção `View all resources`
    ![](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/blob/main/Imagem4.png)
 
-# 3. Detetar faces no Vision Studio
+# 3. Reconhecer texto em imagens usando o Vision Studio
 
-1. Na página principal `Get started with Vision`, selecionar a tab `Face` e depois selecionar a opção `Detect faces in an image`
+1. Na página principal `Get started with Vision`, selecionar a tab `Optical character recognition` e depois selecionar a opção `Extract text from images`
    ![](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/blob/main/Imagem5.png)
 
 2. Abaixo do subtítulo `Try it out` marcar a caixa da política de uso de recursos
    ![](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/blob/main/Imagem6.png)
 
-3. Com base nas [imagens de input](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/tree/main/inputs) vamos testar o serviço para verificar se são detetadas máscaras nas faces ou não.
+3. Com base nas [imagens de input](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/tree/main/inputs) vamos testar o serviço para verificar se é reconhecido o texto nas images.
    
-4. Na pasta de [output](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/tree/main/output) podem ser consultados os resultados da deteção das imagens.
+4. Na pasta de [output](https://github.com/CarlaAlves887/rec-facial-imagens-dados-azure-ml/tree/main/output) podem ser consultados os resultados da deteção de texto nas imagens.
 
 
 
