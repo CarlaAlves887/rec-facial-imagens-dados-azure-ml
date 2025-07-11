@@ -1,6 +1,6 @@
 # Reconhecimento Facial e transformação de imagens em Dados no Azure ML
 
-Para a resolução deste projeto segui o tutorial do laboratório 02 [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html), seguindo os passos abaixo:
+Para a resolução deste projeto segui o tutorial do laboratório 02 [Explore Automated Machine Learning in Azure Machine Learning](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html), seguindo os passos abaixo:
 
 # 1. Criar um serviço Azure AI
 
